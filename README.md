@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Artiushenko Ivan 👋
 
-<!--
-**vanyaOxulus/vanyaOxulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | React & React Native | Node.js Specialist
 
-Here are some ideas to get you started:
+I am a passionate Fullstack Developer focused on building scalable, user-centric web and mobile applications. I enjoy bridging the gap between elegant frontend interfaces and robust backend architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+**Frontend & Mobile**
+- JavaScript (ES6+), React.js, React Native
+- HTML5, CSS3, SCSS
+
+**Backend & Databases**
+- Node.js, Express.js, REST API Design
+- MongoDB (Mongoose), SQL (PostgreSQL/SQLite basics)
+
+**DevOps & Tools**
+- **Docker** & Docker Compose (Containerization)
+- Git & GitHub (Version Control)
+- Postman & Swagger (API Testing & Documentation)
+- Deployment: Render, Vercel, VPS setup
+
+---
+
+### 📂 Featured Projects
+
+#### [Project Name - e.g., Task Management System]
+*A comprehensive task management API with JWT auth, Docker support, and Telegram notifications.*
+- **Stack:** Node.js, Express, MongoDB, Docker, Swagger.
+- [⭐ Repository](https://github.com/vanyaOxulus/task-manager) 
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [Your Profile Link]
+- **Telegram:** [@Vanya_Oxulus]
+- **Email:** [art.vanay.007.n@gmail.com]
+
+*"Code is like humor. When you have to explain it, it’s bad."*
