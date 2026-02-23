@@ -34,6 +34,6 @@ I am a passionate Fullstack Developer focused on building scalable, user-centric
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [Klick](https://www.linkedin.com/in/ivan-artiushenko-380b453b2/)
+- **LinkedIn:** [Click](https://www.linkedin.com/in/ivan-artiushenko-380b453b2/)
 - **Telegram:** @Vanya_Oxulus
 - **Email:** vanyaartushenkoo@gmail.com
