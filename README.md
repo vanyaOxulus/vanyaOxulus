@@ -33,13 +33,6 @@ I am a passionate Fullstack Developer focused on building scalable, user-centric
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VanyaOxulus&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanyaOxulus&layout=compact&theme=dark)
-
----
-
 ### 📫 Connect with me
 - **LinkedIn:** [Your Profile Link]
 - **Telegram:** [@Vanya_Oxulus]
