@@ -23,6 +23,9 @@ I am a passionate Fullstack Developer focused on building scalable, user-centric
 - Deployment: Render, Vercel, VPS setup
 
 ---
+**Diploms**
+- [Genius Space](https://genius.space/crt-verify/?verify=35b85542-6ff6-47c5-bd11-5807fb9a010f)
+---
 
 ### 📂 Featured Projects
 
